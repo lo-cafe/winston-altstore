@@ -3,6 +3,7 @@
 </p>
 
 <h1 align="center">Altstore Source for Winston for Reddit</h1>
+[![Altstore Update](https://github.com/lo-cafe/winston-altstore/actions/workflows/altstore-update.yml/badge.svg)](https://github.com/lo-cafe/winston-altstore/actions/workflows/altstore-update.yml)
 
 Welcome to Winston for Reddit's Altstore Source! 🚀
 
