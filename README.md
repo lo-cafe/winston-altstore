@@ -34,3 +34,5 @@ Are you tired of traditional installation methods for Winston? We've got an alte
 This source exists to provide users with an alternative installation method for Winston. Say goodbye to the hassle of crowded TestFlight and installation issues. With this source, you can enjoy the convenience and stability of Winston in a whole new way.
 
 Give it a try and elevate your Reddit journey! 🎉
+
+Special thanks to @Balackburn for creating the assets and script!
