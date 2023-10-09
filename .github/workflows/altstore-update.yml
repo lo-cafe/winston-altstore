@@ -1,0 +1,13 @@
+name: Altstore Update
+
+on:
+  repository_dispatch:
+    types: [trigger-action]
+
+jobs:
+  triggered_action:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Run Your Action
+        run: echo "The action in the second repository has been triggered."
