@@ -1,19 +1,33 @@
-# Altstore Source for Winston for Reddit
-![Winston Logo](https://raw.githubusercontent.com/Kinark/winston/main/winston-everywhere/Resources/images/icon-128.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kinark/winston/main/winston-everywhere/Resources/images/icon-128.png" alt="Winston for Reddit Icon" />
+</p>
 
-This is an auto-updating [Altstore source](https://raw.githubusercontent.com/Balackburn/Winston/main/apps.json) for **Winston for Reddit**. It checks daily for new releases and updates the source with the latest version, ensuring you always have access to the most recent updates.
+<h1 align="center">Altstore Source for Winston for Reddit</h1>
 
-I've called this repo only "Winston", for a better presentation on my Github Page site (not done yet).
+Welcome to Winston for Reddit's Altstore Source! 🚀
 
-[Add to Altstore/Sidestore](https://tinyurl.com/Winston)
+Visit our official [Repo](https://github.com/lo-cafe/winston) for more details.
 
-[View source online](https://therealfoxster.github.io/altsource-viewer/app.html?source=https://raw.githubusercontent.com/Balackburn/Winston/main/apps.json&id=com.winston.source)
+## Installation
 
-[Copy direct URL](https://raw.githubusercontent.com/Balackburn/Winston/main/apps.json)
+Installing Winston for Reddit is a breeze! Choose your preferred method:
 
-# Why?
+### Automatic Installation
 
-I really love Winston and hope it will help some people to keep using it instead of the official app, also Testflight is full. 
+[![Add to Altstore](https://your-image-url-here.com/add-to-altstore.png)](altstore-link-here)
 
-# From :
-https://github.com/Kinark/winston
+Click the "Add to Altstore" button above to automatically add the source to your Altstore or Sidestore.
+
+### Manual Installation
+
+If you prefer to add it manually, use this URL:
+
+`https://raw.githubusercontent.com/lo-cafe/winston-altstore/main/apps.json`
+
+## Why This Source?
+
+Are you tired of traditional installation methods for Winston? We've got an alternative for you! 🌟
+
+This source exists to provide users with an alternative installation method for Winston. Say goodbye to the hassle of crowded TestFlight and installation issues. With this source, you can enjoy the convenience and stability of Winston in a whole new way.
+
+Give it a try and elevate your Reddit journey! 🎉
