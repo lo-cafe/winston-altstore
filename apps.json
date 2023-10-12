@@ -22,17 +22,17 @@
       "versionDescription": "\u2022 Fixed crash when replying\r\n\u2022 Fixed crash when importing new themes\r\n\u2022 Fixed crash when long pressing on comment\r\n\u2022 Fixed random name in exported themes\r\n\u2022 Now exported themes have \".winston\" extension (zip will continue to work though)\r\n\u2022 Sharing zip to winston is now allowed\r\n\u2022 \".winston\" open in one tap into winston and imports it",
       "downloadURL": "https://github.com/lo-cafe/winston/releases/download/v0.2-alpha/winston.ipa",
       "localizedDescription": "Introducing Winston: \n A Stunning and native Reddit client for iOS\n- In-development, free, and open-source app and bot \n- User-friendly interface designed for easy navigation\n- Compliance with Reddit's Terms of Service for a seamless experience\n- Stay connected with the Reddit community in a sleek and intuitive way\n- Experience the beauty of Winston, your ultimate iOS Reddit companion.\n",
-      "iconURL": "https://raw.githubusercontent.com/Balackburn/Winston/main/images/0.png",
+      "iconURL": "https://raw.githubusercontent.com/lo-cafe/winston-altstore/main/images/0.png",
       "tintColor": "#000000",
       "size": 21591722,
       "screenshotURLs": [
-        "https://raw.githubusercontent.com/Balackburn/Winston/main/images/1.png",
-        "https://raw.githubusercontent.com/Balackburn/Winston/main/images/2.png",
-        "https://raw.githubusercontent.com/Balackburn/Winston/main/images/3.png",
-        "https://raw.githubusercontent.com/Balackburn/Winston/main/images/4.png",
-        "https://raw.githubusercontent.com/Balackburn/Winston/main/images/5.png",
-        "https://raw.githubusercontent.com/Balackburn/Winston/main/images/6.png",
-        "https://raw.githubusercontent.com/Balackburn/Winston/main/images/7.png"
+        "https://raw.githubusercontent.com/lo-cafe/winston-altstore/main/images/1.png",
+        "https://raw.githubusercontent.com/lo-cafe/winston-altstore/main/images/2.png",
+        "https://raw.githubusercontent.com/lo-cafe/winston-altstore/main/images/3.png",
+        "https://raw.githubusercontent.com/lo-cafe/winston-altstore/main/images/4.png",
+        "https://raw.githubusercontent.com/lo-cafe/winston-altstore/main/images/5.png",
+        "https://raw.githubusercontent.com/lo-cafe/winston-altstore/main/images/6.png",
+        "https://raw.githubusercontent.com/lo-cafe/winston-altstore/main/images/7.png"
       ],
       "versions": [
         {
@@ -82,7 +82,7 @@
       "caption": "Winston for Reddit is available for easy sideloading with Altstore!",
       "date": "2023-09-20",
       "tintColor": "#000000",
-      "imageURL": "https://raw.githubusercontent.com/Balackburn/Winston/main/images/news/news_1.png",
+      "imageURL": "https://raw.githubusercontent.com/lo-cafe/winston-altstore/main/images/news/news_1.png",
       "notify": false,
       "url": "https://winston.cafe/"
     },
@@ -92,7 +92,7 @@
       "caption": "Update of Winston for Reddit just got released!",
       "date": "2023-09-20T22:43:53Z",
       "tintColor": "#000000",
-      "imageURL": "https://raw.githubusercontent.com/Balackburn/Winston/main/images/news/news_2.png",
+      "imageURL": "https://raw.githubusercontent.com/lo-cafe/winston-altstore/main/images/news/news_2.png",
       "notify": true,
       "url": "https://github.com/Kinark/winston/releases/tag/v0.1-alpha"
     },
@@ -102,7 +102,7 @@
       "caption": "Update of Winston just got released!",
       "date": "2023-10-02T14:46:31Z",
       "tintColor": "#000000",
-      "imageURL": "https://raw.githubusercontent.com/Balackburn/winston/main/images/news/news_2.png",
+      "imageURL": "https://raw.githubusercontent.com/lo-cafe/winston-altstore/main/images/news/news_2.png",
       "notify": true,
       "url": "https://github.com/Kinark/winston/releases/tag/v0.2-alpha"
     }
