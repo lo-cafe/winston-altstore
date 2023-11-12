@@ -8,7 +8,7 @@ on:
 jobs:
   update_json:
     runs-on: ubuntu-latest
-
+    permissions: write-all
     steps: 
     - name: Check out repository
       uses: actions/checkout@v2
