@@ -17,14 +17,14 @@
       "bundleIdentifier": "lo.cafe.winston",
       "developerName": "Kinark",
       "subtitle": "Winston, a beautiful and native Reddit client for iOS",
-      "version": "0.3",
-      "versionDate": "2023-11-10T19:43:20Z",
-      "versionDescription": "Added\r\n\u2022 Live Text in images\r\n\u2022 Whats new Sheet\r\n\u2022 Lock the app with Face ID / Fingerprint ID\r\n\u2022 Theme Store\r\n\u2022 Subscribed indicator / button when searching for subs\r\n\u2022 Add settings import / export\r\n\u2022 Add line spacing option for themes\r\n\u2022 New comments indicator\r\n\u2022 Added flairs in comments\r\nFixed\r\n\u2022 \"Streamable\" videos now working\r\n\u2022 Blur nsfw subs when searching for subs\r\n\u2022 Default search sort in settings\r\n\u2022 Save sort per subreddit\r\n\u2022 Save comment search per port\r\n\u2022 Support for themable user flairs\r\n\u2022 Add theming for load more button\r\n\u2022 fix wrong username showing up for comments\r\n\r\nSpecial thanks to rbertus2000, mmynk, Nelson Dane, Zander Bobronnikov and ben\u2022wheeler for contributing to this release!",
-      "downloadURL": "https://github.com/lo-cafe/winston/releases/download/v0.3-alpha/winston.ipa",
+      "version": "0.4",
+      "versionDate": "2023-11-23T17:52:12Z",
+      "versionDescription": "\u2022 Huge performance upgrade!\r\n\u2022 Implemented saved posts. You can now access the \"Saved\" tab in your subs drawer.\r\n\u2022 Add controversial sort\r\n\u2022 Add subscribed indicator / button to search\r\n\u2022 Added option to use inline post toolbar in place of floating toolbar in the post page. (Theme \u2022> Post page \u2022> Inline upvote toolbar \u2022 at bottom)\r\n\u2022 Added ability to sort by only posts or only comments in a user profile. (Click the corresponding karma button)\r\n\u2022 Tweaked look of UI in many areas (mainly compact mode improvements).\r\n\u2022 Images in comments now open in the app.\r\n\u2022 In\u2022app safari support improved.\r\n\u2022 Implemented iCloud syncing for credentials.\r\n\u2022 Removed deprecated bug reporting functionality.\r\n\u2022 Enhanced stability for the video player and made minor performance tweaks.\r\n\u2022 Deployed fix for user flairs and new comment indicators.\r\n\u2022 Various bug fixes, stability improvements and QOL tweaks.",
+      "downloadURL": "https://github.com/lo-cafe/winston/releases/download/v0.4-alpha/winston.ipa",
       "localizedDescription": "Introducing Winston: \n A Stunning and native Reddit client for iOS\n- In-development, free, and open-source app and bot \n- User-friendly interface designed for easy navigation\n- Compliance with Reddit's Terms of Service for a seamless experience\n- Stay connected with the Reddit community in a sleek and intuitive way\n- Experience the beauty of Winston, your ultimate iOS Reddit companion.\n",
       "iconURL": "https://raw.githubusercontent.com/lo-cafe/winston-altstore/main/images/0.png",
       "tintColor": "#000000",
-      "size": 22415140,
+      "size": 23569280,
       "screenshotURLs": [
         "https://raw.githubusercontent.com/lo-cafe/winston-altstore/main/images/1.png",
         "https://raw.githubusercontent.com/lo-cafe/winston-altstore/main/images/2.png",
@@ -35,6 +35,13 @@
         "https://raw.githubusercontent.com/lo-cafe/winston-altstore/main/images/7.png"
       ],
       "versions": [
+        {
+          "version": "0.4",
+          "date": "2023-11-23T17:52:12Z",
+          "localizedDescription": "\u2022 Huge performance upgrade!\r\n\u2022 Implemented saved posts. You can now access the \"Saved\" tab in your subs drawer.\r\n\u2022 Add controversial sort\r\n\u2022 Add subscribed indicator / button to search\r\n\u2022 Added option to use inline post toolbar in place of floating toolbar in the post page. (Theme \u2022> Post page \u2022> Inline upvote toolbar \u2022 at bottom)\r\n\u2022 Added ability to sort by only posts or only comments in a user profile. (Click the corresponding karma button)\r\n\u2022 Tweaked look of UI in many areas (mainly compact mode improvements).\r\n\u2022 Images in comments now open in the app.\r\n\u2022 In\u2022app safari support improved.\r\n\u2022 Implemented iCloud syncing for credentials.\r\n\u2022 Removed deprecated bug reporting functionality.\r\n\u2022 Enhanced stability for the video player and made minor performance tweaks.\r\n\u2022 Deployed fix for user flairs and new comment indicators.\r\n\u2022 Various bug fixes, stability improvements and QOL tweaks.",
+          "downloadURL": "https://github.com/lo-cafe/winston/releases/download/v0.4-alpha/winston.ipa",
+          "size": 23569280
+        },
         {
           "version": "0.3",
           "date": "2023-11-10T19:43:20Z",
@@ -122,6 +129,16 @@
       "imageURL": "https://raw.githubusercontent.com/Balackburn/Winston/main/images/news/news_2.png",
       "notify": true,
       "url": "https://github.com/Kinark/winston/releases/tag/v0.3-alpha"
+    },
+    {
+      "title": "0.4-alpha - Winston for Reddit",
+      "identifier": "release-0.4-alpha",
+      "caption": "Update of Winston just got released!",
+      "date": "2023-11-23T17:52:12Z",
+      "tintColor": "#000000",
+      "imageURL": "https://raw.githubusercontent.com/Balackburn/Winston/main/images/news/news_2.png",
+      "notify": true,
+      "url": "https://github.com/Kinark/winston/releases/tag/v0.4-alpha"
     }
   ]
 }
