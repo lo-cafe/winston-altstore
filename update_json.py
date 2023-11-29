@@ -51,7 +51,7 @@ def update_json_file(json_file, fetched_data_all, fetched_data_latest):
     for release in fetched_data_all:
         full_version = fetched_data_latest["tag_name"].lstrip('v')
         tag = release["tag_name"]
-        version = re.search(r"^(\d+\.\d+)", full_version).group(1) 
+        version = re.search(r"^(\d+\.\d+\.\d+)", full_version)
         versionDate = release["published_at"]
         description = release["body"]
         description = remove_tags(description)
@@ -85,7 +85,7 @@ def update_json_file(json_file, fetched_data_all, fetched_data_latest):
     # Now handle the latest release data (from the second script)
     full_version = fetched_data_latest["tag_name"].lstrip('v')
     tag = fetched_data_latest["tag_name"]
-    version = re.search(r"^(\d+\.\d+)", full_version).group(1)
+    version = re.search(r"^(\d+\.\d+\.\d+)", full_version).group(1)
     app["version"] = version
     app["versionDate"] = fetched_data_latest["published_at"]
 
