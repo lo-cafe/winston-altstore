@@ -17,7 +17,7 @@
       "bundleIdentifier": "lo.cafe.winston",
       "developerName": "Kinark",
       "subtitle": "Winston, a beautiful and native Reddit client for iOS",
-      "version": "1.1",
+      "version": "1.1.0",
       "versionDate": "2023-11-29T15:08:57Z",
       "versionDescription": "This release does not have any changes and is only there to fix our AltStore source",
       "downloadURL": "https://github.com/lo-cafe/winston/releases/download/v1.1.0-alpha/winston.ipa",
@@ -35,6 +35,13 @@
         "https://raw.githubusercontent.com/lo-cafe/winston-altstore/main/images/7.png"
       ],
       "versions": [
+        {
+          "version": "1.1.0",
+          "date": "2023-11-29T15:08:57Z",
+          "localizedDescription": "This release does not have any changes and is only there to fix our AltStore source",
+          "downloadURL": "https://github.com/lo-cafe/winston/releases/download/v1.1.0-alpha/winston.ipa",
+          "size": 23569280
+        },
         {
           "version": "1.1",
           "date": "2023-11-29T15:08:57Z",
