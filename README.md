@@ -17,7 +17,7 @@ Installing Winston for Reddit is a breeze! Choose your preferred method:
 
 ### Automatic Installation
 
-[![Add to Altstore](https://your-image-url-here.com/add-to-altstore.png)](altstore-link-here)
+[![Add to Altstore](https://i.imgur.com/46qhEAv.png)](https://www.shorturl.at/dAL15)
 
 Click the "Add to Altstore" button above to automatically add the source to your Altstore or Sidestore.
 
