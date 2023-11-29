@@ -51,7 +51,7 @@ def update_json_file(json_file, fetched_data_all, fetched_data_latest):
     for release in fetched_data_all:
         full_version = fetched_data_latest["tag_name"].lstrip('v')
         tag = release["tag_name"]
-        version = re.search(r"^(\d+\.\d+\.\d+)", full_version)
+        version = re.search(r"^(\d+\.\d+\.\d+)", full_version).group(1)
         versionDate = release["published_at"]
         description = release["body"]
         description = remove_tags(description)
