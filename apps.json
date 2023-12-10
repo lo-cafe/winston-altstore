@@ -17,14 +17,14 @@
       "bundleIdentifier": "lo.cafe.winston",
       "developerName": "Kinark",
       "subtitle": "Winston, a beautiful and native Reddit client for iOS",
-      "version": "1.1.0",
-      "versionDate": "2023-11-29T15:08:57Z",
-      "versionDescription": "This release does not have any changes and is only there to fix our AltStore source",
-      "downloadURL": "https://github.com/lo-cafe/winston/releases/download/v1.1.0-alpha/winston.ipa",
+      "version": "1.1.1",
+      "versionDate": "2023-12-10T12:40:03Z",
+      "versionDescription": "Just a small fix that's already included in the TestFlight version of the app",
+      "downloadURL": null,
       "localizedDescription": "Introducing Winston: \n A Stunning and native Reddit client for iOS\n- In-development, free, and open-source app and bot \n- User-friendly interface designed for easy navigation\n- Compliance with Reddit's Terms of Service for a seamless experience\n- Stay connected with the Reddit community in a sleek and intuitive way\n- Experience the beauty of Winston, your ultimate iOS Reddit companion.\n",
       "iconURL": "https://raw.githubusercontent.com/lo-cafe/winston-altstore/main/images/0.png",
       "tintColor": "#000000",
-      "size": 23569280,
+      "size": null,
       "screenshotURLs": [
         "https://raw.githubusercontent.com/lo-cafe/winston-altstore/main/images/1.png",
         "https://raw.githubusercontent.com/lo-cafe/winston-altstore/main/images/2.png",
@@ -163,6 +163,16 @@
       "imageURL": "https://raw.githubusercontent.com/Balackburn/Winston/main/images/news/news_2.png",
       "notify": true,
       "url": "https://github.com/Kinark/winston/releases/tag/v1.1.0-alpha"
+    },
+    {
+      "title": "1.1.1-alpha - Winston for Reddit",
+      "identifier": "release-1.1.1-alpha",
+      "caption": "Update of Winston just got released!",
+      "date": "2023-12-10T12:40:03Z",
+      "tintColor": "#000000",
+      "imageURL": "https://raw.githubusercontent.com/Balackburn/Winston/main/images/news/news_2.png",
+      "notify": true,
+      "url": "https://github.com/Kinark/winston/releases/tag/v1.1.1-alpha"
     }
   ]
 }
