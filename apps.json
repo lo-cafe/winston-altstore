@@ -17,14 +17,14 @@
       "bundleIdentifier": "lo.cafe.winston",
       "developerName": "Kinark",
       "subtitle": "Winston, a beautiful and native Reddit client for iOS",
-      "version": "1.1.1",
-      "versionDate": "2023-12-30T00:58:02Z",
-      "versionDescription": "Changelog\r\n\u2022 Features and Enhancements\r\n\u2022 Implemented account switcher\r\n\u2022 Implemented caching for preview models and shared videos\r\n\u2022 Reformulated Winston Everywhere to be a React app\r\n\u2022 Implemented new credential transition effect\r\n\u2022 Introduced custom filters and Core Data support\r\n\u2022 Added behavior toggle for audio changes\r\n\u2022 Added \"Collapse Comment\" swipe action\r\n\u2022 Finished flairs animation\r\n\u2022 Open old.reddit links inside the app \r\n\r\nBug Fixes and Optimization\r\n\u2022 Fixed compact mode links and audio issues\r\n\u2022 Fixed issues with account management\r\n\u2022 Fixed various bugs in video playback\r\n\u2022 Fixed various issues with announcements and voting\r\n\u2022 Fixed problems with comment collapsing and links\r\n\u2022 Fixed comments loading bug\r\n\u2022 Fixed post opening issues\r\n\u2022 Fixed issues with post links and hitboxes\r\n\u2022 Fixed issues with theme editing and preview\r\n\u2022 Fixed problems with comments and voting\r\n\u2022 Fixed various crashes and performance improvements\r\n\u2022 Fixed issues with feed load times\r\n\u2022 Fixed bugs in flairs animation\r\n\u2022 Fixed text being duplicated when typing a reply",
-      "downloadURL": "https://github.com/lo-cafe/winston/releases/download/v1.1.1-final/winston.ipa",
+      "version": "1.1.2",
+      "versionDate": "2024-01-19T15:03:25Z",
+      "versionDescription": "Check discord for changelog",
+      "downloadURL": "https://github.com/lo-cafe/winston/releases/download/v1.1.2/winston.ipa",
       "localizedDescription": "Introducing Winston: \n A Stunning and native Reddit client for iOS\n- In-development, free, and open-source app and bot \n- User-friendly interface designed for easy navigation\n- Compliance with Reddit's Terms of Service for a seamless experience\n- Stay connected with the Reddit community in a sleek and intuitive way\n- Experience the beauty of Winston, your ultimate iOS Reddit companion.\n",
       "iconURL": "https://raw.githubusercontent.com/lo-cafe/winston-altstore/main/images/0.png",
       "tintColor": "#000000",
-      "size": 46677231,
+      "size": 48250209,
       "screenshotURLs": [
         "https://raw.githubusercontent.com/lo-cafe/winston-altstore/main/images/1.png",
         "https://raw.githubusercontent.com/lo-cafe/winston-altstore/main/images/2.png",
@@ -35,6 +35,13 @@
         "https://raw.githubusercontent.com/lo-cafe/winston-altstore/main/images/7.png"
       ],
       "versions": [
+        {
+          "version": "1.1.2",
+          "date": "2024-01-19T15:03:25Z",
+          "localizedDescription": "Check discord for changelog",
+          "downloadURL": "https://github.com/lo-cafe/winston/releases/download/v1.1.2/winston.ipa",
+          "size": 48250209
+        },
         {
           "version": "1.1.1",
           "date": "2023-12-30T00:58:02Z",
@@ -190,6 +197,16 @@
       "imageURL": "https://raw.githubusercontent.com/Balackburn/Winston/main/images/news/news_2.png",
       "notify": true,
       "url": "https://github.com/Kinark/winston/releases/tag/v1.1.1-final"
+    },
+    {
+      "title": "1.1.2 - Winston for Reddit",
+      "identifier": "release-1.1.2",
+      "caption": "Update of Winston just got released!",
+      "date": "2024-01-19T15:03:25Z",
+      "tintColor": "#000000",
+      "imageURL": "https://raw.githubusercontent.com/Balackburn/Winston/main/images/news/news_2.png",
+      "notify": true,
+      "url": "https://github.com/Kinark/winston/releases/tag/v1.1.2"
     }
   ]
 }
