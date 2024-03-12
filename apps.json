@@ -20,7 +20,7 @@
       "version": "1.1.3",
       "versionDate": "2024-03-12T17:02:28Z",
       "versionDescription": "\u2022 Complete rewrite of how Winston displays the elements in each feed, resulting in a major boost to Winston\u2019s smoothness \r\n\u2022 Fixed bug regarding crossposts in compact mode\r\n\u2022 Fixed rare bug causing crashes when  in compact mode \r\n\u2022 Addition of setting to select the comment skipper button location\r\n\u2022 Fixed compact mode bug relating to post link heights\r\n\u2022 Fixed crashed related to UI being updated in the background\r\n\u2022 Fixed bug relating to tab bar swiping\r\n\u2022 Fixed bug relating to swipe anywhere\r\n\r\n\r\n",
-      "downloadURL": "https://github.com/lo-cafe/winston/releases/download/v1.1.3/winston.1.1.3.ad-hoc.zip",
+      "downloadURL": "https://github.com/lo-cafe/winston/releases/download/v1.1.3/winston.ipa",
       "localizedDescription": "Introducing Winston: \n A Stunning and native Reddit client for iOS\n- In-development, free, and open-source app and bot \n- User-friendly interface designed for easy navigation\n- Compliance with Reddit's Terms of Service for a seamless experience\n- Stay connected with the Reddit community in a sleek and intuitive way\n- Experience the beauty of Winston, your ultimate iOS Reddit companion.\n",
       "iconURL": "https://raw.githubusercontent.com/lo-cafe/winston-altstore/main/images/0.png",
       "tintColor": "#000000",
