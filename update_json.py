@@ -113,7 +113,7 @@ def update_json_file(json_file, fetched_data_all, fetched_data_latest):
         "tintColor": "#000000",
         "imageURL": "https://raw.githubusercontent.com/Balackburn/Winston/main/images/news/news_2.png",
         "notify": True,
-        "url": f"https://github.com/Kinark/winston/releases/tag/{tag}"
+        "url": f"https://github.com/lo-cafe/winston/releases/tag/{tag}"
     }
 
     # Check if the news entry already exists
@@ -129,7 +129,7 @@ def update_json_file(json_file, fetched_data_all, fetched_data_latest):
 
 # Main function
 def main():
-    repo_url = "Kinark/winston"
+    repo_url = "lo-cafe/winston"
     json_file = "apps.json"
 
     fetched_data_all = fetch_all_releases(repo_url)
