@@ -17,14 +17,14 @@
       "bundleIdentifier": "lo.cafe.winston",
       "developerName": "Kinark",
       "subtitle": "Winston, a beautiful and native Reddit client for iOS",
-      "version": "1.1.4",
-      "versionDate": "2024-03-14T17:18:44Z",
-      "versionDescription": "\u2022 Implemented option to toggle visibility of feeds prefixes\r\n\u2022 Fixed multis not showing up\r\n\u2022 Now compact posts settings will be hidden if the option is not enabled\r\n\u2022 Fixed comments context menu preview showing in the wrong size",
-      "downloadURL": "https://github.com/lo-cafe/winston/releases/download/v1.1.4/winston.ipa",
+      "version": "1.1.5",
+      "versionDate": "2024-06-24T08:53:08Z",
+      "versionDescription": "\u2022 Fixed placeholder message alignment\r\n\u2022 Fixed Reddit API preferences page\r\n\u2022 Added localization support\r\n\u2022 Cleaned unused code and replaced glitchy book Lottie\r\n\u2022 Removed old, unused TipJar component\r\n\u2022 Added back GlobalLoaderProvider\r\n\u2022 Fixed broken build\r\n\u2022 Improved RedditListingFeed component and cleaned up some files\r\n\u2022 Fixed many UI bugs and stutters; added new NukeUI Opt components\r\n\u2022 Removed redundant code calling setAudioToMixWithOthers three times\r\n\u2022 Provided RedditListingFeed with a force refresh handler; fixed UserView issues\r\n\u2022 Fixed blur flash on app open\r\n\u2022 Fixed cache clear button not working\r\n\u2022 Added support for inline image within comments\r\n\u2022 Improved spoiler handling in selftext\r\n\u2022 Corrected tab bar hit detection in Split View on iPad",
+      "downloadURL": "https://github.com/lo-cafe/winston/releases/download/v1.1.5/winston.ipa",
       "localizedDescription": "Introducing Winston: \n A Stunning and native Reddit client for iOS\n- In-development, free, and open-source app and bot \n- User-friendly interface designed for easy navigation\n- Compliance with Reddit's Terms of Service for a seamless experience\n- Stay connected with the Reddit community in a sleek and intuitive way\n- Experience the beauty of Winston, your ultimate iOS Reddit companion.\n",
       "iconURL": "https://raw.githubusercontent.com/lo-cafe/winston-altstore/main/images/0.png",
       "tintColor": "#000000",
-      "size": 47535139,
+      "size": 50003343,
       "screenshotURLs": [
         "https://raw.githubusercontent.com/lo-cafe/winston-altstore/main/images/1.png",
         "https://raw.githubusercontent.com/lo-cafe/winston-altstore/main/images/2.png",
@@ -35,6 +35,13 @@
         "https://raw.githubusercontent.com/lo-cafe/winston-altstore/main/images/7.png"
       ],
       "versions": [
+        {
+          "version": "1.1.5",
+          "date": "2024-06-24T08:53:08Z",
+          "localizedDescription": "\u2022 Fixed placeholder message alignment\r\n\u2022 Fixed Reddit API preferences page\r\n\u2022 Added localization support\r\n\u2022 Cleaned unused code and replaced glitchy book Lottie\r\n\u2022 Removed old, unused TipJar component\r\n\u2022 Added back GlobalLoaderProvider\r\n\u2022 Fixed broken build\r\n\u2022 Improved RedditListingFeed component and cleaned up some files\r\n\u2022 Fixed many UI bugs and stutters; added new NukeUI Opt components\r\n\u2022 Removed redundant code calling setAudioToMixWithOthers three times\r\n\u2022 Provided RedditListingFeed with a force refresh handler; fixed UserView issues\r\n\u2022 Fixed blur flash on app open\r\n\u2022 Fixed cache clear button not working\r\n\u2022 Added support for inline image within comments\r\n\u2022 Improved spoiler handling in selftext\r\n\u2022 Corrected tab bar hit detection in Split View on iPad",
+          "downloadURL": "https://github.com/lo-cafe/winston/releases/download/v1.1.5/winston.ipa",
+          "size": 50003343
+        },
         {
           "version": "1.1.4",
           "date": "2024-03-14T17:18:44Z",
@@ -241,6 +248,16 @@
       "imageURL": "https://raw.githubusercontent.com/Balackburn/Winston/main/images/news/news_2.png",
       "notify": true,
       "url": "https://github.com/lo-cafe/winston/releases/tag/v1.1.4"
+    },
+    {
+      "title": "1.1.5 - Winston for Reddit",
+      "identifier": "release-1.1.5",
+      "caption": "Update of Winston just got released!",
+      "date": "2024-06-24T08:53:08Z",
+      "tintColor": "#000000",
+      "imageURL": "https://raw.githubusercontent.com/Balackburn/Winston/main/images/news/news_2.png",
+      "notify": true,
+      "url": "https://github.com/lo-cafe/winston/releases/tag/v1.1.5"
     }
   ]
 }
